@@ -1,0 +1,13 @@
+Joy-Con (R) Configration
+A	Button A	1	BUTTON	0	0	0.0	0.0
+X	Button X	1	BUTTON	1	0	0.0	0.0
+B	Button B	1	BUTTON	2	0	0.0	0.0
+Y	Button Y	1	BUTTON	3	0	0.0	0.0
+SL	Button SL	1	BUTTON	4	0	0.0	0.0
+SR	Button SR	1	BUTTON	5	0	0.0	0.0
+PLUS	Button +	1	BUTTON	9	0	0.0	0.0
+STICK	Button Stick	1	BUTTON	11	0	0.0	0.0
+HOME	Button Home	1	BUTTON	12	0	0.0	0.0
+R	Button R	1	BUTTON	14	0	0.0	0.0
+ZR	Button ZR	1	BUTTON	15	0	0.0	0.0
+POV	Hat Pov	2	HAT	cooliehat: pov	0	1.0	0.0
